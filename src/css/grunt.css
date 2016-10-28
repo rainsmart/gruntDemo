@@ -1,0 +1,18 @@
+html{
+	background:red;
+	font-size:10px;
+}
+body{
+	border:1px solid red;
+}
+
+div{
+	height:100px;
+	width:100px;
+	background:red;
+}
+
+img{
+	display: block;
+	width:100%;
+}
